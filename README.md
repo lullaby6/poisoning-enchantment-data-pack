@@ -1,12 +1,12 @@
 # Poisoning Enchantment
 
-This datapack adds the `Poisoning` enchantment for the swords, this new enchantment apply poison effect to the victims.
+This Data-Pack adds the Poisoning enchantment for swords, which applies poison to victims.
 
 The enchantment has a max of 2 levels, for each level, increases the duration of the effect.
 
-This new enchantment can be obtained from the enchantment table, loot chests or trades with villagers.
+The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
 
-Version: `1.21.4`
+Version: `1.21.X`
 
 ## Commands
 
