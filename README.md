@@ -1,6 +1,6 @@
 # Poisoning Enchantment
 
-This Data-Pack adds the Poisoning enchantment for swords, which applies poison to victims.
+This Data-Pack adds the `Poisoning` enchantment for swords, which applies poison to victims.
 
 The enchantment has a max of 2 levels, for each level, increases the duration of the effect.
 
